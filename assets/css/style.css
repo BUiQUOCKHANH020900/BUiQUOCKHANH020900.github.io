@@ -526,7 +526,7 @@ html{
         flex-direction: column; 
     }
     .member-item{
-        padding-left: 120px;
+        align-self: center;
     }
     .place-list{
         flex-direction: column;
